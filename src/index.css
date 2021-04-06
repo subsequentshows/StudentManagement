@@ -70,6 +70,10 @@ th {
   color: white !important;
 }
 
+.list-table {
+  background-color: #00081c80;
+}
+
 .custom-table {
   color: black !important;
   background-color: whitesmoke !important;
@@ -84,15 +88,15 @@ th {
 }
 
 .email {
-  min-width: 250px;
+  min-width: 350px;
 }
 
 .phone {
-  min-width: 180px;
+  min-width: 200px;
 }
 
 .customize {
-  min-width: 250px;
+  min-width: 150px;
 }
 
 img {

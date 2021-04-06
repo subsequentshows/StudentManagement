@@ -34,11 +34,11 @@ function AddNew() {
         <div className="btn-row">
           <a href="/">
             <button className="btn back-btn" type="button">
-              <i className="fas fa-chevron-left" /> Quay lại
+              <i className="fas fa-chevron-left"/> Quay lại
             </button>
           </a>
           <button className="btn save-btn" type="submit">
-            <i className="fas fa-save" /> Lưu
+            <i className="fas fa-save"/>Lưu
           </button>
         </div>
       </form>
