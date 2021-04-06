@@ -36,7 +36,7 @@ function App() {
   return (
     <main>
       <div class="container">
-        <h1>Danh sách học viên</h1>
+        <h1>- Danh sách học viên -</h1>
         <div class="table-container">
           <a href="form.html">
             <button class="add-btn">
